@@ -8,7 +8,7 @@ upgrade self to skills needed
 6. C, Python
 7. System Design
 8. AI application:
-   8.0 Find AI tool  (theresanaiforthat)
+   8.0 Find AI tool  ([theresanaiforthat](https://theresanaiforthat.com/))
    8.1 Get a Wikipedia-like report on your topic with AI (storm ai, https://storm.genie.stanford.edu/)
    8.2 Image generation (Grok, Qwen, chatgpt)
    8.3 AI generates slides instantly (https://gamma.app/, https://www.aippt.com/)
@@ -20,6 +20,7 @@ upgrade self to skills needed
    8.8 image upscaling (magnific ai)
    8.9 image to video (runway ML & Lumalab)
    8.91 Idea generation by AI e.g. ad film creation, script, shots (midjourney, chatgpt)
+         Prompt: Context, Task, Instruction, Data
                                   scene: cinematic scene
                                   shot type: aerial shot
                                   subject: red jaguar F pace
